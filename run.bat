@@ -1,0 +1,1 @@
+java -jar moco-runner-0.10.1-standalone.jar http -p 12306 -c foo.json
